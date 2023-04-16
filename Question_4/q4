@@ -1,1 +1,4 @@
 
+The approach is to find the Least Common substring of the string with itself by making sure that that any two characters at the ith index 
+is not in the same location as the original string.
+
