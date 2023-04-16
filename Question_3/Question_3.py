@@ -15,8 +15,8 @@ cannot be dropped. Hence the missing values have to be filled using some method.
 The percentage of missing values is less than 70%, so they cannot be dropped."""
 
 
-
-    
+"""#4. Linear regression will be a suitable model
+       for predicting the price of the cars """
 
 
 
